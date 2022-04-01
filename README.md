@@ -1,8 +1,4 @@
- 👋 Hi, I’m @xiaolongmr
-- 👀 I’m interested in html ,css and js.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+有安工的校友没！！
 
 <!---
 xiaolongmr/xiaolongmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
