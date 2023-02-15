@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=xiaolongmr&theme=gruvbox) -->
 
-<a href=#><img src="https://cdn.jsdelivr.net/gh/xiaolongmr/xiaolongmr@main/contributions.svg"></a>
+<a href=#><img src="暂不需要.svg"></a>
 
 <p align="center"> 
   Visitor count<br>
