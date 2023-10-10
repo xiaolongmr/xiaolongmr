@@ -4,7 +4,7 @@ xiaolongmr/xiaolongmr is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=xiaolongmr&theme=gruvbox) -->
-<img align='center' src="https://readme-typing-svg.herokuapp.com/?lines=中华人民共和国万岁！"/>
+<img style="max-width: 100%;text-align: center;padding-left: 40%;" src="https://readme-typing-svg.herokuapp.com/?lines=中华人民共和国万岁！"/>
 
 <a href=#><img src="暂不需要.svg"></a>
 
